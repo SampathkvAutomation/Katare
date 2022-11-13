@@ -7,8 +7,7 @@ Feature: To Test the matching String from the response file.
   
   
   Background: 
-    * def stream = read('classpath:application.properties')
-    * def props = new java.util.Properties()
+
 
 Scenario: To find a straight matching text from a response saved to a file
   * def JavaFileData = Java.type('karate.TestData')
