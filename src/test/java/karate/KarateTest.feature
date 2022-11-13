@@ -1,10 +1,9 @@
 #Author: Sampath K V
 #Keywords Summary :
-#Feature: To Test the matching String from response file.
+#Feature: To Test the matching String from the  response file.
 
 @tag
-Feature: Title of your feature
-  I want to use this template for my feature file
+Feature: To Test the matching String from the response file.
   
   
   Background: 
